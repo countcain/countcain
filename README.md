@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+Ya, you see my commit history down below.
+Moreover, this is my shell history.
+
+![a](https://proxy-shell-history.bmo.workers.dev/)
+
 <!--
 **countcain/countcain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
 
 Here are some ideas to get you started:
 
